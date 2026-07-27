@@ -9,7 +9,7 @@ To install the Inventory Management App, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/FREDVUNI/inventory-management-app.git
+   git clone https://github.com/RaiTheDevX/inventory-management-app.git
    ```
 
 2. Navigate to the project directory:
@@ -61,7 +61,7 @@ The Inventory Management App was built using the following technologies:
 
 Contributions to the Inventory Management App are welcome! To contribute, follow these steps:
 
-1. Fork the repository: [https://github.com/FREDVUNI/inventory-management-app.git](https://github.com/FREDVUNI/inventory-management-app.git).
+1. Fork the repository: [https://github.com/RaiTheDevX/inventory-management-app.git](https://github.com/RaiTheDevX/inventory-management-app.git).
 2. Create a new branch for your changes:
 
    ```bash
